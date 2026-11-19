@@ -4,9 +4,9 @@
 
 SignEase is an accessibility-first educational platform designed to bridge communication gaps between teachers and students, particularly deaf and hard-of-hearing learners. It combines real-time speech-to-text transcription, browser-based hand gesture recognition, interactive classroom tools, and AI-powered learning assistance to create a more inclusive digital learning environment.
 
-🌐 **Live Demo:** https://signease-zeta.vercel.app
+🌐 **Live Demo:** https://signease07.vercel.app
 
-💻 **GitHub Repository:** [Add your GitHub repository URL]
+💻 **GitHub Repository:** [https://github.com/TheAniketSingh-07/SignEase]
 
 ---
 
@@ -514,8 +514,6 @@ Lovely Professional University (LPU), Punjab, India
 **Project:** SignEase – Sign Language & Speech-to-Text Classroom Assistant
 
 - Portfolio: https://theaniketsingh.netlify.app/
-- GitHub: [Add your GitHub profile URL]
-- LinkedIn: [Add your LinkedIn profile URL]
 
 ---
 
